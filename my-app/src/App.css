@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+body {
+  user-select: none;
+}
+
+.selected {
+  background-color: rgb(119, 119, 245);
+}
